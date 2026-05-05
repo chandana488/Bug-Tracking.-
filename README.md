@@ -1,1 +1,1 @@
-# Bug-Tracking System uaing AI.-
+# Bug-Tracking System using AI.-
